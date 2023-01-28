@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: 'What is it that goes up, but never comes down??',
+        question: 'What is it that goes up, but never comes down?',
         a: 'Age',
         b: 'Water',
         c: 'Fire',
@@ -14,7 +14,7 @@ const quizData = [
         d: 'Promise',
         correct: 'b'
     },{
-        question: 'A farmer has 17 sheep and all but nine die. How many are left??',
+        question: 'A farmer has 17 sheep and all but nine die. How many are left?',
         a: '7',
         b: '8',
         c: '9',
